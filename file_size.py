@@ -26,7 +26,7 @@ import nbconvert as nb
 from nbconvert.exporters import PDFExporter, MarkdownExporter, NotebookExporter
 from nbconvert.writers.files import FilesWriter
 
-DIR_PATH = '/Users/lesiyonr/Desktop/SCHOOL_WORK/graduate_school/teaching/repos/cmse801/student_grades/{}'
+DIR_PATH = '/Users/lesiyonr/Desktop/{}'
 
 # errors handling
 
